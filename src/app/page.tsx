@@ -7,6 +7,7 @@ export default function TestInput() {
     <div className="space-y-2">
       <label htmlFor="email">Email</label>
       <Input id="email" placeholder="Enter your email" />
+      bhak
     </div>
   );
 }
